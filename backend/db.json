@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você veio",
+      "autoria": "Nay",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Que bom que você veio",
+      "autoria": "Marcos",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Que bom que você veio",
+      "autoria": "Diego",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Eu estou fazendo o curso",
+      "autoria": "Marcos Capella",
+      "modelo": "modelo2",
+      "id": 4
+    }
+  ]
+}
