@@ -6,11 +6,17 @@
   "scripts": {
     "start": "json-server --watch db.json --port 3000"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "school project",
+    "angular studies"
+  ],
+  "author": "capella-marcosfilipe",
   "license": "ISC",
   "dependencies": {
     "backend": "file:",
     "json-server": "^0.17.4"
+  },
+  "engines": {
+    "node": "16.13.0"
   }
 }

@@ -15,13 +15,6 @@
       "favorito": false
     },
     {
-      "conteudo": "Estou testando o backend online",
-      "autoria": "Marcos",
-      "modelo": "modelo1",
-      "id": 5,
-      "favorito": true
-    },
-    {
       "conteudo": "Que a força esteja com força",
       "autoria": "Yoda",
       "modelo": "modelo3",
@@ -43,10 +36,10 @@
       "favorito": true
     },
     {
+      "id": 9,
       "conteudo": "Resolver um bug não consegue? Esfriar a cabeça você deve.",
       "autoria": "mestre yoda",
-      "modelo": "modelo1",
-      "id": 9,
+      "modelo": "modelo2",
       "favorito": false
     },
     {
@@ -55,6 +48,13 @@
       "modelo": "modelo3",
       "favorito": false,
       "id": 10
+    },
+    {
+      "conteudo": "O desenvolvimento do projeto da Memoteca foi capaz de me apresentar o grosso do Angular 14. Entender a estrutura do Angular e como ele trabalha renderizações, condiconais, e como melhorar trabalhar com APIs é esencial para que eu possa daqui apenas refinar os meus conhecimentos.",
+      "autoria": "marcos capella",
+      "modelo": "modelo2",
+      "favorito": true,
+      "id": 11
     }
   ]
 }
