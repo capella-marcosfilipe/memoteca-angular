@@ -8,10 +8,11 @@
   },
   "keywords": [
     "school project",
-    "angular studies"
+    "angular studies",
+    "spa"
   ],
   "author": "capella-marcosfilipe",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "backend": "file:",
     "json-server": "^0.17.4"
