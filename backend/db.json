@@ -1,28 +1,60 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "Que bom que você veio",
-      "autoria": "Nay",
-      "modelo": "modelo1"
-    },
-    {
-      "id": 2,
-      "conteudo": "Que bom que você veio",
-      "autoria": "Marcos",
-      "modelo": "modelo2"
-    },
-    {
       "id": 3,
       "conteudo": "Que bom que você veio",
       "autoria": "Diego",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "conteudo": "Eu estou fazendo o curso",
       "autoria": "Marcos Capella",
       "modelo": "modelo2",
-      "id": 4
+      "id": 4,
+      "favorito": false
+    },
+    {
+      "conteudo": "Estou testando o backend online",
+      "autoria": "Marcos",
+      "modelo": "modelo1",
+      "id": 5,
+      "favorito": true
+    },
+    {
+      "conteudo": "Que a força esteja com força",
+      "autoria": "Yoda",
+      "modelo": "modelo3",
+      "id": 6,
+      "favorito": true
+    },
+    {
+      "conteudo": "Estudando desabilitar botões",
+      "autoria": "Capella",
+      "modelo": "modelo1",
+      "id": 7,
+      "favorito": false
+    },
+    {
+      "conteudo": "Adicionando mais uma ideia para verificar a paginação.",
+      "autoria": "marcos",
+      "modelo": "modelo1",
+      "id": 8,
+      "favorito": true
+    },
+    {
+      "conteudo": "Resolver um bug não consegue? Esfriar a cabeça você deve.",
+      "autoria": "mestre yoda",
+      "modelo": "modelo1",
+      "id": 9,
+      "favorito": false
+    },
+    {
+      "conteudo": "Dor de cabeça",
+      "autoria": "daniel",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 10
     }
   ]
 }
